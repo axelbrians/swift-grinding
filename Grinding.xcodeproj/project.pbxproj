@@ -1,0 +1,110 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		FC16127F2AE2549E002E4ED7 /* 11 TimeConversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11 TimeConversion.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC2150792ADEE40D00D887D9 /* 5 Staircase.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5 Staircase.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC21507A2ADEE6EE00D887D9 /* 6 PlusMinus.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "6 PlusMinus.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC3528032AE6D06E0084AD0E /* 14 DrawingBook.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14 DrawingBook.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC37D1362AE58CCA0044D59F /* 13 DayOfTheProgrammer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "13 DayOfTheProgrammer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC4A7ED12ADD6A5D00190CCD /* 1 SimpleArrayAddition.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1 SimpleArrayAddition.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC4A7ED42ADD7CA500190CCD /* 2 CompareTheTriplets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2 CompareTheTriplets.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC4A7ED52ADD7CA500190CCD /* 3 AVeryBigSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3 AVeryBigSum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC4A7ED62ADD7E0900190CCD /* 4 DiagonalDifference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4 DiagonalDifference.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC7A5BB02AE01D9100229608 /* 7 MiniMaxSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "7 MiniMaxSum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC7A5BB12AE01F0200229608 /* 8 BirthdayCakeCandle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8 BirthdayCakeCandle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC88BCD12B88402B00192304 /* 19 PickingNumbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "19 PickingNumbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC9448462AE0CC4400755433 /* 9 GradingStudents.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9 GradingStudents.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC9B3CD52AE0FF0B008F4E21 /* 10 AppleAndOranges.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "10 AppleAndOranges.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCA8EDB52AE2FA2900B0336A /* 12 BetweenTwoSets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "12 BetweenTwoSets.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCEEBD5B2AE966F700B6CAF7 /* 15 MigratoryBirds.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "15 MigratoryBirds.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCEEBD5C2AE96AA700B6CAF7 /* 16 SubarrayDivision.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "16 SubarrayDivision.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCF886982AEFEA5B00685E18 /* 17 ElectronicShops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "17 ElectronicShops.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCF886992AEFF1A000685E18 /* 18 FormingAMagicSquare.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "18 FormingAMagicSquare.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		FC4A7ECA2ADD6A0A00190CCD = {
+			isa = PBXGroup;
+			children = (
+				FC88BCD12B88402B00192304 /* 19 PickingNumbers.playground */,
+				FCF886992AEFF1A000685E18 /* 18 FormingAMagicSquare.playground */,
+				FCF886982AEFEA5B00685E18 /* 17 ElectronicShops.playground */,
+				FCEEBD5C2AE96AA700B6CAF7 /* 16 SubarrayDivision.playground */,
+				FCEEBD5B2AE966F700B6CAF7 /* 15 MigratoryBirds.playground */,
+				FC3528032AE6D06E0084AD0E /* 14 DrawingBook.playground */,
+				FC37D1362AE58CCA0044D59F /* 13 DayOfTheProgrammer.playground */,
+				FCA8EDB52AE2FA2900B0336A /* 12 BetweenTwoSets.playground */,
+				FC16127F2AE2549E002E4ED7 /* 11 TimeConversion.playground */,
+				FC9B3CD52AE0FF0B008F4E21 /* 10 AppleAndOranges.playground */,
+				FC9448462AE0CC4400755433 /* 9 GradingStudents.playground */,
+				FC7A5BB12AE01F0200229608 /* 8 BirthdayCakeCandle.playground */,
+				FC7A5BB02AE01D9100229608 /* 7 MiniMaxSum.playground */,
+				FC21507A2ADEE6EE00D887D9 /* 6 PlusMinus.playground */,
+				FC2150792ADEE40D00D887D9 /* 5 Staircase.playground */,
+				FC4A7ED62ADD7E0900190CCD /* 4 DiagonalDifference.playground */,
+				FC4A7ED52ADD7CA500190CCD /* 3 AVeryBigSum.playground */,
+				FC4A7ED42ADD7CA500190CCD /* 2 CompareTheTriplets.playground */,
+				FC4A7ED12ADD6A5D00190CCD /* 1 SimpleArrayAddition.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		FC4A7ECB2ADD6A0A00190CCD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = FC4A7ECE2ADD6A0A00190CCD /* Build configuration list for PBXProject "Grinding" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FC4A7ECA2ADD6A0A00190CCD;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		FC4A7ECF2ADD6A0A00190CCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		FC4A7ED02ADD6A0A00190CCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FC4A7ECE2ADD6A0A00190CCD /* Build configuration list for PBXProject "Grinding" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FC4A7ECF2ADD6A0A00190CCD /* Debug */,
+				FC4A7ED02ADD6A0A00190CCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FC4A7ECB2ADD6A0A00190CCD /* Project object */;
+}
